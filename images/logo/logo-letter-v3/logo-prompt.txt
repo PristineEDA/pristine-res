@@ -1,0 +1,8 @@
+Use case: logo-brand
+Asset type: software app icon square master
+Input image: images/logo/logo-v1.png is the edit target.
+Mask intent: edit only the masked black corner/canvas-edge artifact areas. Preserve all unmasked pixels, including the P mark, highlights, shadows, gradients, proportions, and existing composition.
+Primary request: Fill the masked black rounded-corner/canvas-edge areas with a natural continuation of the existing pale blue and cream sea-salt cheese background. The result must be a clean full 1:1 square logo master with square image boundaries, not rounded-corner cutouts.
+Required change: remove black pixels, black matte, dark fringe, dirty edge, and rounded-corner clipping at the image boundary. The formerly black corners should become intentional soft pale blue/cream background that matches the existing icon.
+Do not redesign: do not change the P shape, do not move or resize the P, do not change the inner shadow or highlight design, do not introduce a mascot, do not add text, do not add new symbols, do not add chips/circuits/semiconductor motifs, and do not change the color palette.
+Output constraints: no words, no watermark, no transparent checkerboard, no black corners. Keep the full icon centered in a 1:1 square canvas suitable for deriving app icon sizes.
