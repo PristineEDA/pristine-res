@@ -1,0 +1,18 @@
+Use case: precise-object-edit
+Asset type: finished splash screen image edit
+Input image: Image 1 is the edit target. Preserve official-1-greek-lighthouse.png unmodified.
+
+Primary request:
+Edit Image 1 while preserving the existing splash screen composition, anime/cartoon seaside painting style, color palette, bright daylight, camera angle, sea, sand, pier, mountains, foreground railing, and the white Greek lighthouse.
+
+Required edit:
+Replace the existing waterfront buildings below and to the left of the white lighthouse with a Greek Santorini Mediterranean-style white building cluster. The cluster should feel like it belongs in the original image style: whitewashed stucco walls, compact cubic volumes, soft rounded edges, small blue accents/doors/trim, tiny terraces, short stair-step forms, and simple arched openings. Use suitable density: not too sparse and not overcrowded. Arrange the buildings with natural staggered heights and varied rooflines, stepping gently along the shoreline and hillside.
+
+Style and continuity:
+Match the original official splash style exactly: simplified anime/cartoon oil-painting finish, clean readable shapes, soft painterly texture, saturated turquoise sea, warm sand, crisp white architecture, and minimal fine detail appropriate for a distant background building group.
+
+Composition/framing:
+Keep the lighthouse in place and unchanged. Keep the shoreline curve, marina/pier, mountain silhouettes, beach, water, sky, and foreground railing in the same positions. The new Santorini-style building cluster should occupy the same general waterfront area as the current buildings and integrate naturally with the beach and hillside.
+
+Constraints:
+Change only the building cluster below and left of the lighthouse. Do not change the lighthouse, foreground railing, beach, sea, sky, pier, boats, or mountains. No people, no text, no watermark, no logos, no oversized buildings, no fantasy architecture, no dense city skyline, no night scene, no dramatic weather, no cropping.

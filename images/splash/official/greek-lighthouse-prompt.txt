@@ -1,0 +1,19 @@
+Use case: precise-object-edit
+Asset type: finished splash screen image edit
+Input image: Image 1 is the edit target. Preserve the existing official splash screen design.
+
+Primary request:
+Edit Image 1 while keeping the current composition, anime/cartoon seaside painting style, color palette, lighting, camera angle, sea, sand, railing, mountains, marina, buildings, and clean splash screen layout.
+
+Required edits:
+- Remove the bottom-right Chinese watermark text "豆包AI生成" completely. Fill the area naturally with the existing floor/railing/beach colors and painterly texture. Do not add any replacement text.
+- Replace the distant white tower on the right hillside with a Greek Mediterranean-style white lighthouse. The lighthouse should be whitewashed, elegant, simple, coastal, and naturally integrated into the same location and perspective. Use subtle Greek island architectural cues such as white stucco, a small blue accent or trim, a simple lantern room, and clean sunlit edges.
+
+Style and continuity:
+Keep the original official-1 splash screen look: bright clear day, simplified anime/cartoon oil-painting finish, clean shapes, soft painterly texture, saturated turquoise sea, warm sand, and crisp readable forms.
+
+Composition/framing:
+Do not redesign the image. Keep the horizon, pier, shoreline curve, marina, mountains, railing, and beach layout in the same places. Keep the lighthouse at the original tower's approximate scale and position.
+
+Constraints:
+Change only the watermark area and the distant tower area. Preserve official-1.png unmodified. No visible text, no watermark, no logos, no people, no extra buildings, no oversized lighthouse, no fantasy architecture, no night scene, no dramatic weather, no cropping.

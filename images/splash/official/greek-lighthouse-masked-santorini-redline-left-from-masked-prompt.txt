@@ -1,0 +1,21 @@
+Use case: precise-object-edit
+Asset type: splash screen background illustration
+Edit target: images/splash/official-1-greek-lighthouse-masked.png
+
+Primary request:
+Replace the existing low waterfront buildings and hillside structures below-left of the white lighthouse with a Greek Santorini Mediterranean white building village. The village must be placed only on the left side of the implied red guideline from the reference image, beginning near the lower-left beach/waterfront area and rising diagonally toward the white lighthouse.
+
+Style and medium:
+Keep the exact visual language of the source image: two-dimensional anime cartoon oil painting, abstract hand-painted splash-screen illustration, simplified geometric brush shapes, clean sunlit forms, turquoise sea, soft coastal light, and crisp white/blue accents. The replacement buildings must match the source painting style and must not become photorealistic.
+
+Building layout:
+Arrange the white buildings as a staggered, organic hillside/waterfront ribbon following the diagonal route of the red guideline. Buildings should step upward from the lower-left beach edge toward the lighthouse, with moderate density and natural spacing. Keep the cluster clearly on the left side of the red guideline; do not place a white village on the right side of the guideline, the open beach, or the far-right hillside.
+
+Building details:
+Use varied Santorini-style architecture: cubic white houses, different roof heights, terraces, short stair-step masses, small arches, blue doors, blue windows, blue railings, small balconies, and a few rounded roof/dome hints. Add sparse Mediterranean plants and flowers as painted accents, including green shrubs, small trees, and pink/purple bougainvillea. Make the buildings diverse and hand-composed, not repeated, mirrored, tiled, or AI-patterned.
+
+Hard invariants:
+Change only the masked waterfront/hillside building strip. Preserve the original white lighthouse exactly, including its shape, size, color, and position. Preserve the sea, pier, boats, buoy line, beach curve, foreground wooden railing, terrace floor, mountains, sky, lighting, color palette, canvas/oil texture, and overall splash-screen composition. Keep the image free of people.
+
+Avoid:
+No red guideline visible in the final image. No text, watermark, logo, signature, or UI. No people. No repeated identical houses. No dense city skyline. No photorealistic buildings. No fantasy architecture. No oversized building covering or touching the lighthouse. No changes to the ocean, pier, boats, beach, foreground railing, terrace, sky, or lighthouse.

@@ -1,0 +1,22 @@
+Use case: precise-object-edit
+Asset type: anime cartoon oil painting splash screen
+Input image: Image 1 is the edit target and composition reference.
+
+Primary request:
+Keep the existing design, camera angle, layout, and recognizable composition of Image 1. Transform the beach scene into a polished anime-style cartoon oil painting splash screen. Preserve the wide open blue sky, sea, sandy beach, wave line, distant marina/pier, mountains on the right, and the foreground wooden railing perspective.
+
+Required edits:
+- Remove every person and human figure from the beach, waterline, promenade, foreground, distant shoreline, and building area.
+- Replace the white observation tower on the right hillside with a Mediterranean-style white seaside house. The house must be white stucco, warm and sunlit, with a terracotta tile roof, arched windows/doorways, small balconies or simple shutters, and natural scale/perspective matching the original tower location.
+
+Style/medium:
+Two-dimensional anime cartoon oil painting style. Use clean anime-inspired shapes and readable outlines combined with painterly oil brush texture. Bright seaside colors, soft cel-shaded lighting, gentle hand-painted detail, polished splash screen quality.
+
+Composition/framing:
+Wide landscape splash screen background. Keep the original railing as a strong foreground diagonal, the horizon and coastline in the same general position, and generous clear sky negative space. Do not crop out the beach or railing.
+
+Lighting/mood:
+Bright clear coastal day, peaceful Mediterranean vacation mood, cheerful and inviting.
+
+Constraints:
+Change only the style, remove people, and replace the white tower. Keep the existing scene design and perspective. No people, no human silhouettes, no text, no watermark, no logos, no modern observation tower, no extra towers, no oversized fantasy building, no dramatic sunset, no night scene.

@@ -1,0 +1,22 @@
+Use case: precise-object-edit
+Asset type: splash screen background illustration
+Edit target: images/splash/official-1-greek-lighthouse-masked-santorini-abstract.png
+
+Primary request:
+Refine only the white building cluster below and to the left of the white lighthouse. Keep the Greek Santorini Mediterranean white village style, but make the layout follow the implied red guideline from the lower-left beach edge upward toward the lighthouse. The buildings must stay only on the left side of that guideline, forming a staggered hillside/waterfront ribbon that rises toward the lighthouse.
+
+Style and medium:
+Two-dimensional anime cartoon oil painting, abstract hand-painted splash-screen illustration. Match the existing source image exactly: clean soft brush shapes, simplified forms, crisp white walls, bright blue accents, turquoise water, sunny coastal palette. Do not make the new buildings photorealistic or overly detailed.
+
+Building details:
+Create a varied Santorini-style white building group with different silhouettes and sizes: small cubic houses, terraces, arches, short stair-step volumes, curved roof details, blue doors, blue windows, small balconies, and uneven stacked heights. Add sparse Mediterranean plants and flowers as small painted accents, including a few green shrubs and pink/purple bougainvillea touches. Density should be moderate and natural, not crowded.
+
+Composition:
+The buildings should begin near the lower-left end of the masked waterfront/beach area and gradually step upward along the diagonal hillside direction toward the white lighthouse. Keep all buildings on the left side of the implied diagonal red line; do not spread buildings to the right of the line or across the open beach. The village should feel hand-composed, varied, and organic, not duplicated or AI-patterned.
+For the right side of the implied diagonal line, restore or preserve open beach, low hillside greenery, and simple coastal background shapes with no white house cluster there.
+
+Hard invariants:
+Change only the masked building/hillside strip. Preserve the source image dimensions and composition. Keep the white lighthouse unchanged. Keep the sea, pier, boats, beach curve, mountains, sky, foreground wooden railing, terrace tiles, lighting, color palette, and painterly texture unchanged. Keep the image free of people.
+
+Avoid:
+No red guide line in the final image. No text, watermark, logo, signature, or UI. No repeated identical houses. No dense city skyline. No photorealistic architecture. No fantasy buildings. No large buildings covering the lighthouse. No changes to the railing, ocean, pier, beach, sky, or lighthouse.

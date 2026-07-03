@@ -1,0 +1,21 @@
+Use case: precise-object-edit
+Asset type: finished splash screen image edit
+Input image: Image 1 is the edit target. Preserve official-1-greek-lighthouse-masked.png unmodified.
+
+Primary request:
+Create a new edited version of Image 1 while preserving the existing splash screen composition, abstract anime/cartoon seaside painting style, color palette, bright daylight, camera angle, sea, sand, pier, mountains, foreground railing, and the white Greek lighthouse.
+
+Required edit:
+Replace only the existing waterfront buildings below and to the left of the white lighthouse with a Greek Santorini Mediterranean-style white building cluster. The new cluster must remain only in the lighthouse's lower-left area, not spreading across the whole shoreline and not covering the lighthouse.
+
+Building design:
+Use whitewashed Santorini-style architecture with an abstract hand-painted look matching the original image. Include varied building silhouettes: compact cubic houses, a few rounded roof forms, small terraces, short stair-step masses, simple arched openings, small blue doors/windows/trim, and subtle shadow shapes. The cluster should have suitable density, staggered heights, and different building shapes. Avoid repeated identical modules or pattern-like AI-generated repetition.
+
+Style and continuity:
+Keep the original image's simplified abstract painting style. Do not make the buildings photorealistic. Use clean cartoon forms, soft painterly texture, minimal distant-detail rendering, crisp white shapes, and blue accents that match the existing palette.
+
+Composition/framing:
+Keep the white lighthouse unchanged. Keep the shoreline curve, marina/pier, mountain silhouettes, beach, sea, sky, and foreground railing in the same positions. The new building cluster should integrate naturally with the hillside and beach while staying visually secondary to the lighthouse.
+
+Constraints:
+Change only the building area below and to the left of the lighthouse. Preserve the source image file. No people, no text, no watermark, no logos, no oversized buildings, no dense city skyline, no duplicated identical houses, no realistic photo style, no fantasy architecture, no night scene, no dramatic weather, no cropping.

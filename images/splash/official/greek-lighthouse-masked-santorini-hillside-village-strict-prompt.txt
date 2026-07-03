@@ -1,0 +1,30 @@
+Use case: precise-object-edit
+Asset type: splash screen background illustration
+Edit target: images/splash/official-1-greek-lighthouse-masked.png
+
+Primary request:
+Inside the masked red-line-left land/building area only, replace the existing white modern waterfront buildings with a Greek Santorini-style white seaside village built into the hillside. The village should begin near the lower-left waterfront/beach edge and follow the rising diagonal path of the red guideline up toward the white lighthouse.
+
+Visual style:
+Match the original image exactly: abstract two-dimensional anime cartoon oil painting, clean sunlit shapes, simplified painterly geometry, bright turquoise sea, soft Mediterranean daylight, crisp white surfaces, and blue accent details. Keep the style illustrative and slightly abstract, not realistic photography and not a detailed 3D render.
+
+Village composition:
+Create a low-density hillside village, not a crowded block of buildings. Leave visible roads, stepped paths, small courtyards, gaps, green hillside, and breathing room between houses. The composition should feel physically plausible from the camera viewpoint: buildings sit on the sloping land, scale gets smaller with distance, and paths climb naturally from the waterfront toward the lighthouse.
+
+Santorini architecture:
+Use real Santorini-inspired forms: whitewashed cubic houses, small arched doorways, blue doors and windows, blue railings, flat terraces, short staircases, curved parapets, occasional subtle dome or rounded roof element, stone retaining walls, and pale stone texture on some exterior walls. Use varied house sizes and silhouettes so there is no obvious repeated pattern.
+
+Placement constraints:
+The village must stay only on the land side to the left/above the implied red guideline. Do not spread the village into the open beach, ocean, pier, boats, foreground railing, terrace, or the far-right hillside beyond the red guideline. Do not cover, resize, or repaint the white lighthouse; keep the lighthouse visually separate above the village.
+
+Detail accents:
+Add small Mediterranean plants and flowers as sparse accents: green shrubs, a few small trees, and touches of pink or purple bougainvillea. Keep them painterly and integrated with the original image, not overly detailed.
+
+Hard invariants:
+Change only the masked red-line-left building/hillside strip. Preserve all pixels outside the final strict mask from the original source image. Preserve the white lighthouse, sea, pier, boats, buoy line, beach curve, foreground wooden railing, terrace floor, mountains outside the mask, sky outside the mask, lighting, color palette, canvas/oil texture, and overall splash-screen composition. Keep the image free of people.
+
+Avoid:
+No red guide line in the final image. No text, watermark, logo, signature, or UI. No people. No repeated identical houses. No dense city skyline. No photorealistic buildings. No fantasy architecture. No oversized buildings touching or hiding the lighthouse. No visual pile-up of white blocks. No changes outside the strict mask.
+
+Post-processing requirement:
+The final saved project image will be strictly composited: the generated raw image contributes pixels only inside the binary mask, and the original source image is used everywhere outside the binary mask.
