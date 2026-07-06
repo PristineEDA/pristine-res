@@ -1,0 +1,34 @@
+Use case: style-transfer
+Asset type: software splash screen exploration
+Input image:
+Image 1 is the composition and style reference: images/splash/explorations/1.png
+
+Primary request:
+Generate a new complete splash image in the same composition and painterly style as Image 1, creating a quiet feeling of a small human figure facing vast nature. Do not restore or reuse any previous generated image. Remove all watermark, stock-photo marks, logos, text, signatures, and central overlay marks.
+
+Scene and composition:
+Keep the broad horizontal beach composition from Image 1: a large ocean and wave band across the middle, pale sand in the lower area, and a centered back-facing girl sitting quietly below the middle of the frame. Preserve the sense that the girl is small compared with the huge sea and sky. Keep the scene calm, sparse, and spacious.
+
+Girl:
+Keep the central back-facing girl concept, her general outfit type, hairstyle silhouette, seated posture, scale, and depth of field consistent with Image 1, but redesign her as a new original girl in the same visual language. She wears a loose light short-sleeve top and a dark skirt or dark lower clothing. Her hair is short-to-medium dark hair with soft painterly edge highlights and shadow variation. Do not show her face.
+
+Arctic fox cub:
+On the girl's right side, place a thin, small Arctic fox cub curled against the edge of the girl's skirt, sleeping. The cub faces the viewer/front of the image, with closed eyes, a small gentle face, small ears, a slim young body, and a fluffy tail curled close. The fox height should reach only about half the height of the girl's skirt area, so it feels small and fragile rather than large or plush.
+
+Sand play objects:
+To the right of the Arctic fox cub, place a small shallow pit dug in the sand. Near the pit, add a small shovel inserted diagonally into the sand and a small bucket lying horizontally on its side with some sand inside or slightly spilling out. The shovel and bucket should look casual, scattered, and unarranged, with a natural loose feeling.
+
+Depth and placement:
+Keep the girl at the same visual depth as in Image 1. The Arctic fox cub, sand pit, shovel, and bucket should have subtle depth differences from the girl: the fox is close to the skirt, while the sand pit, shovel, and fallen bucket extend slightly to the right and lower-right across the sand. Keep all scales physically plausible and grounded on the sand.
+
+Style and color:
+All visual elements must match Image 1: quiet anime/cartoon oil-painting splash art, abstract brush texture, simplified forms, low detail, muted teal ocean, pale cream sand, soft white foam, calm summer light, and high atmospheric mood. The fox and beach objects must not look like separate stickers or clipart; integrate them into the same brushwork and color palette.
+
+Mood:
+Emphasize stillness, solitude, and tenderness: a small girl and a sleeping Arctic fox cub on a beach facing a huge calm ocean. The image should feel meditative rather than cute-chaotic.
+
+Constraints:
+Output size must be 1536x1024. No watermark, no stock-photo text, no logo, no signature, no captions, no UI. No extra people. No additional animals. No sandcastle. No oversized fox. No photorealism. No 3D render. No dramatic lighting changes. No large crashing waves. Do not crop the girl.
+
+Avoid:
+Avoid over-detailing the fox or bucket, avoid bright toy-like colors, avoid clutter, avoid exaggerated waves, avoid changing the core horizon/ocean/sand composition, avoid making the girl face the camera.
